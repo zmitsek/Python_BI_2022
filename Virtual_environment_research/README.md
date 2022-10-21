@@ -23,7 +23,7 @@ cd Virtual_environment_research/
 
 ## Creating and activating environment
 ```sh
-python -m venv venv
+python3 -m venv venv
 ```
 ```sh
 source venv/bin/activate
