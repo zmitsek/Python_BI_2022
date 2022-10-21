@@ -12,10 +12,11 @@ sudo apt-get install python3
 
 ## Downloading files
 ```sh
-git clone https://github.com/zmitsek/Virtual_environment_research
+git clone git@github.com:zmitsek/Python_BI_2022.git
 ```
 Then go to the directory with the script
 ```sh
+git checkout homework3
 cd Virtual_environment_research/
 ```
 
