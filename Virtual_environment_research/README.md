@@ -16,6 +16,7 @@ git clone git@github.com:zmitsek/Python_BI_2022.git
 ```
 Then go to the directory with the script
 ```sh
+cd Python_BI_2022/
 git checkout homework3
 cd Virtual_environment_research/
 ```
